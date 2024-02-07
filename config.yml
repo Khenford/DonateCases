@@ -1,0 +1,11 @@
+#You can set any number of chances, the higher the number, the more often it will fall out
+#
+#Example:
+#Privilege name:
+# chance: chance of failure
+guest:
+  chance: 100
+admin:
+  chance: 20
+owner:
+  chance: 10
